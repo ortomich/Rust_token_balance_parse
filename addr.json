@@ -1,0 +1,43 @@
+[
+        {
+            "address": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
+            "name": "XDEFI"
+        },
+        {
+            "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+            "name": "0x"
+        },
+        {
+            "address": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84",
+            "name": "LINK"
+        },
+        {
+            "address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d",
+            "name": "DAI"
+        },
+        {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "name": "Wrapped Ether"
+        },
+        {
+            "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+            "name": "Akropolis"
+        },
+        {
+            "address": "0x94d863173ee77439e4292284ff13fad54b3ba182",
+            "name": "Akropolis Delphi"
+        },
+        {
+            "address": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
+            "name": "Armor"
+        },
+        {
+            "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+            "name": "Ampleforth"
+        },
+        {
+            "address": "0x960b236a07cf122663c4303350609a66a7b288c0",
+            "name": "Aragon Network Token"
+        }
+]
+
